@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 
-let Pswd = "trojan";
+let Pswd = "b3bcc72b-951d-4956-bbe1-e8f8f64b65cd";
 const proxyIPs = ["cdn.xn--b6gac.eu.org"]; //workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org
 let hostnames = [''];
 
